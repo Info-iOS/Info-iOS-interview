@@ -93,3 +93,42 @@
 | Codable에 대하여 설명하시오. | | |
 | Closure에 대하여 설명하시오. | | |
 | Closure와 함수와의 관계에 대해 설명하시오. | | |
+
+### **ARC**
+
+| 질문 | 답변 | 답변자 |
+| --- | --- | --- |
+| ARC란 무엇인지 설명하시오. | | |
+| Retain Count 방식에 대해 설명하시오. | | |
+| Strong 과 Weak 참조 방식에 대해 설명하시오. | | |
+| 순환 참조에 대하여 설명하시오. | | |
+| 강한 순환 참조 (Strong Reference Cycle) 는 어떤 경우에 발생하는지 설명하시오. | | |
+
+### **Functional Programming**
+| 질문 | 답변 | 답변자 |
+| --- | --- | --- |
+| 순수함수란 무엇인지 설명하시오. | | |
+| 함수형 프로그래밍이 무엇인지 설명하시오. | | |
+| 고차 함수가 무엇인지 설명하시오. | | |
+| Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오. | | |
+
+### **Functional Programming**
+| 질문 | 답변 | 답변자 |
+| --- | --- | --- |
+| MVVM, MVI, Ribs, VIP 등 자신이 알고있는 아키텍쳐를 설명하시오. | | |
+| 의존성 주입에 대하여 설명하시오. | | |
+
+### **SwiftUI**
+| 질문 | 답변 | 답변자 |
+| --- | --- | --- |
+| @State에 대해서 설명하시오. | | |
+
+### **Combine**
+| 질문 | 답변 | 답변자 |
+| --- | --- | --- |
+| PassthroughSubject에 대해서 설명하시오. | | |
+| @Published에 대해서 설명하시오. | | |
+| AnyCancellable에 대해서 설명하시오. | | |
+| sink에 대해서 설명하시오 | | |
+| throttle과 debounce의 차이점을 설명하시오. | | |
+
