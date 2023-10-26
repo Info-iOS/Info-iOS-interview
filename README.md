@@ -44,13 +44,16 @@
 | ViewController의 생명주기를 설명하시오. |  | |
 | TableView와 CollectionView의 차이점을 설명하시오. | | |
 
-### **Concurrency (NSOperationQueue와 GCD)**
+### **Autolayout**
 
-| 질문 | 답변 |
-| --- | --- |
-| NSOperationQueue와 GCD Queue 차이점 | NSOperationQueue는 GCD 위에 구축된 고수준 API로 작업을 관리하는 데 사용되며, GCD는 낮은 수준의 C 기반 API로 작업을 병렬로 수행하는 데 사용됩니다. |
-| GCD API 동작과 중요성 설명 | GCD는 작업을 효율적으로 병렬로 처리하는 데 사용되며, 병렬로 작업을 수행하는 간단하고 효율적인 방법을 제공합니다. |
-| Global Dispatch Queue의 QoS 수준 | GCD의 글로벌 대기열에는 userInteractive, userInitiated, default, utility, background와 같은 QoS 수준이 있으며, 이 수준은 작업 우선 순위를 결정합니다. |
+| 질문 | 답변 | 답변자 |
+| --- | --- | --- |
+| 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지) | | |
+| hugging, resistance에 대해서 설명하시오. | | |
+| Intrinsic Size에 대해서 설명하시오. | | |
+| 스토리보드를 이용했을때의 장단점을 설명하시오. | | |
+| Safearea에 대해서 설명하시오. | | |
+| Left Constraint 와 Leading Constraint 의 차이점을 설명하시오. | | |
 
 ### **프레임워크**
 
