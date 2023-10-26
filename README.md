@@ -132,3 +132,44 @@
 | sink에 대해서 설명하시오 | | |
 | throttle과 debounce의 차이점을 설명하시오. | | |
 
+### **RxSwift**
+| 질문 | 답변 | 답변자 |
+| --- | --- | --- |
+| Reactive Programming이 무엇인지 설명하시오. | | |
+| RxSwift를 왜 사용하는지 설명하시오. | | |
+| RxSwift의 단점을 설명하시오. | | |
+| RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오. | | |
+| Subject의 종류와 차이점에 대해 설명하시오. | | |
+| Subject와 Driver의 차이를 설명하시오. | | |
+| Single, Completable, Maybe의 차이점에 대해 설명하고, 언제 적용하면 좋을지 설명하시오. | | |
+
+### **MRC**
+| 질문 | 답변 | 답변자 |
+| --- | --- | --- |
+| ARC 대신 Manual Reference Count 방식으로 구현할 때 꼭 사용해야 하는 메서드들을 쓰고 역할을 설명하시오. | | |
+| retain 과 assign 의 차이점을 설명하시오. | | |
+| 특정 객체를 autorelease 하기 위해 필요한 사항과 과정을 설명하시오. | | |
+| Autorelease Pool을 사용해야 하는 상황을 두 가지 이상 예로 들어 설명하시오. | | |
+| 다음 코드를 실행하면 어떤 일이 발생할까 추측해서 설명하시오. | | |
+
+### **Advanced**
+
+| 질문 | 답변 | 답변자 |
+| --- | --- | --- |
+| method swizzling이 무엇이고, 어떨 때 사용하는지 설명하시오. | | |
+| NSCoder 클래스는 어떤 상황에서 어떻게 써야 하는지 설명하시오. | | |
+| Responder Chain 구조에 대해 설명하고, First Responder 역할에 대해 설명하시오. | | |
+| NSObject부터 UIButton 까지 상속 과정의 계층과 역할을 설명하시오. | | |
+| shallow copy와 deep copy의 차이점을 설명하시오. | | |
+| Push Notification 방식에 대해 설명하시오. | | |
+| Foundation 과 Core Foundation 프레임워크의 차이점을 설명하시오. | | |
+| NSURLConnection 에서 사용하는 Delegate 메서드들에 대해 설명하시오. | | |
+| Synchronous 방식과 Asynchronous 방식으로 URL Connection을 처리할 경우의 장단점을 비교하시오. | | |
+| Plist 파일 구조와 Plist 파일에 저장된 데이터를 다루기 적합한 클래스를 설명하시오. | | |
+| Core Data와 Sqlite 같은 데이터 베이스의 차이점을 설명하시오. | | |
+| JSON 데이터를 처리하는 방식과 파서, 객체 변환 방식에 대해 설명하시오. | | |
+| 웹 서버와 HTTP 연결을 사용해서 데이터를 주거나 받으려면 사용해야 하는 클래스와 동작을 설명하시오. | | |
+| Protocol에서는 왜 var만 되는지 설명하시요. | | |
+| DispatchQueue.main.sync를 사용하는 상황을 설명하시오. | | |
+| Run Loops에 대해 설명하시오. | | |
+
