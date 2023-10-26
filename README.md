@@ -28,7 +28,7 @@
 | NotificationCenter 동작 방식과 활용 방안에 대해 설명하시오. |  | |
 | UIKit 클래스들을 다룰 때 꼭 처리해야하는 애플리케이션 쓰레드 이름은 무엇인가? | | |
 | App Bundle의 구조와 역할에 대해 설명하시오. | | |
-| 모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가? | | |
+| 모든 View Controller 객체의 상위 클래스는 무엇이고 그 역할은 무엇인가? | [답변](https://github.com/Info-iOS/Info-iOS-interview/tree/main/Interview/모든%20View%20Controller%20객체의%20상위%20클래스는%20무엇이고%20그%20역할은%20무엇인가%3F) | 박준하 |
 | 자신만의 Custom View를 만들려면 어떻게 해야하는지 설명하시오. | | |
 | View 객체에 대해 설명하시오. | | |
 | UIView 에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오. | | |
@@ -43,6 +43,7 @@
 | 다크모드를 지원하는 방법에 대해 설명하시오. | | |
 | ViewController의 생명주기를 설명하시오. |  | |
 | TableView와 CollectionView의 차이점을 설명하시오. | | |
+| 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하오. | [답변](https://github.com/Info-iOS/Info-iOS-interview/tree/main/Interview/실제%20디바이스가%20없을%20경우%20개발%20환경에서%20할%20수%20있는%20것과%20없는%20것을%20설명하오) |박준하, 은호|
 
 ### **Autolayout**
 
@@ -51,7 +52,7 @@
 | 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지) | | |
 | hugging, resistance에 대해서 설명하시오. | | |
 | Intrinsic Size에 대해서 설명하시오. | | |
-| 스토리보드를 이용했을때의 장단점을 설명하시오. | | |
+| 스토리보드를 이용했을때의 장단점을 설명하시오. | [답변](https://github.com/Info-iOS/Info-iOS-interview/tree/main/Interview/스토리보드의%20장단점) | 박준하, 이은호 |
 | Safearea에 대해서 설명하시오. | | |
 | Left Constraint 와 Leading Constraint 의 차이점을 설명하시오. | | |
 
@@ -64,7 +65,7 @@
 | Copy On Write는 어떤 방식으로 동작하는지 설명하시오. | | |
 | Convenience init에 대해 설명하시오. | | |
 | AnyObject에 대해 설명하시오. | | |
-| Optional 이란 무엇인지 설명하시오. | | |
+| Optional 이란 무엇인지 설명하시오. | [답변](https://github.com/Info-iOS/Info-iOS-interview/tree/main/Interview/Optional%20이란%20무엇인지%20설명하시오) | 박준하 |
 | Struct 가 무엇이고 어떻게 사용하는지 설명하시오. | | |
 | Subscripts에 대해 설명하시오. | | |
 | String은 왜 subscript로 접근이 안되는지 설명하시오. | | |
